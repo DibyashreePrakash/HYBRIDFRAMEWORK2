@@ -1,0 +1,10 @@
+ApplicationUrl=https://www.flipkart.com/
+Browsername=Chrome
+ChromeDriver=\\src\\main\\resources\\servers\\chromedriver.exe
+GeckoDriver=\\src\\main\\resources\\servers\\geckodriver.exe
+IEDriver=\\src\\main\\resources\\servers\\IEDriverServer.exe
+ExcelTestData=\\src\\main\\resources\\testData\\TestData.xlsx
+Screnshot=\\src\\main\\resources\\screenshot
+user_name=admin
+password=manager
+exp_loginpage_title=OrangeHRM
